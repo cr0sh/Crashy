@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/L7-MCPE/lav7"
-	"github.com/L7-MCPE/raknet"
-	"github.com/L7-MCPE/util/buffer"
+	"github.com/L7-MCPE/lav7/raknet"
+	"github.com/L7-MCPE/lav7/util/buffer"
 )
 
 var junk = make([]byte, 8191)
